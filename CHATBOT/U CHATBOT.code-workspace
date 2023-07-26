@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../U CHAT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CHATBOT"
+	}
+}
